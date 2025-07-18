@@ -43,14 +43,12 @@ pip install -r requirements.txt
 Create a .env file in the root directory and add your keys:
 
 env
-Copy code
 GROQ_API_KEY=your_groq_api_key
 OPENAI_API_KEY=your_openai_key_if_applicable
 🔒 Your .env is protected via .gitignore and won't be pushed.
 
 🧪 Usage
-bash
-Copy code
+
 streamlit run loader.py
 Once launched, the app will allow you to:
 
@@ -63,8 +61,7 @@ Get structured answers with document context
 
 
 📚 Folder Structure
-bash
-Copy code
+
 📁 Groq/
 ├── loader.py          # Main Streamlit app with full UI and logic
 ├── app.py             # Simple web-scraping demo
