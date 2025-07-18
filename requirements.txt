@@ -1,0 +1,7 @@
+streamlit
+beautifulsoup4
+langchain_community
+langchain_groq
+openai
+lxml
+html5lib

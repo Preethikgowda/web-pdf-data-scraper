@@ -1,0 +1,18 @@
+# Ignore Python environments
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+
+# Ignore Streamlit temporary files
+.streamlit/config.toml
+.cache/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore secrets and credentials
+.env
