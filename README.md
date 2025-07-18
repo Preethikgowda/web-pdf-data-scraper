@@ -69,6 +69,7 @@ Get structured answers with document context
 ├── requirements.txt   # Python dependencies
 ├── groq.ipynb         # Jupyter notebook for testing
 └── .env               # API keys (excluded from Git)
+
 📝 License
 This project is licensed under the MIT License – feel free to use, modify, and share with attribution.
 
